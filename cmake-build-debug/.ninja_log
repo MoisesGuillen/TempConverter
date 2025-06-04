@@ -1,0 +1,5 @@
+# ninja log v6
+3	608	1748997809679147290	CMakeFiles/TempConverter.dir/convertTemp.cpp.o	f08a8e6dfe5d56c0
+1	613	1748997809677518072	CMakeFiles/TempConverter.dir/main.cpp.o	e8610e2856c3e00e
+2	613	1748997809678959043	CMakeFiles/TempConverter.dir/getInput.cpp.o	d43a081610d052d3
+613	734	1748997810289854016	TempConverter	aa51757375382ce7
